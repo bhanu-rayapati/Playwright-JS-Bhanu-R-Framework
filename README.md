@@ -71,7 +71,7 @@ Here's the folder structure:
 │
 ├── 📁 test-output/
 │   ├── 📁 screenshots/
-│   └── 📁 saved-passes/
+│   └── 📁 saved-pdfs/
 │
 ├── package.json
 └── playwright.config.js
